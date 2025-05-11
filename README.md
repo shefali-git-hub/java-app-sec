@@ -1,4 +1,4 @@
-# This repository is for the GHAS Assignment - 2
+# This repository is for the DevSecOps Assignment - 2(a) : Enable GHAS for a repository
 
 ## This is Java application
 
